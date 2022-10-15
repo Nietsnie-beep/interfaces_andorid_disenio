@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desarrollo_de_interfaces</string>
+    <string name="titulo">Titulo</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+</resources>
